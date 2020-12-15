@@ -1,0 +1,366 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0-adoptopenjdk (Oracle Corporation)
+
+Name: base/assets/bin/Data/Managed/etc/mono/4.5/machine.config
+SHA-256-Digest: 75uThxaP0d1smW+WwTTZxE+OsG+VhwBL+ZclKlIBgtY=
+
+Name: base/res/layout/browser_actions_context_menu_page.xml
+SHA-256-Digest: OREEUsywW1SZ/mJ2rh3OzsgKdtDrR35U8blJuWSurDA=
+
+Name: base/root/META-INF/androidx.versionedparcelable_versionedparcela
+ ble.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/res/mipmap-xhdpi-v4/app_icon.png
+SHA-256-Digest: +Jq5KROf0BKn5IQtEGwPxxUOimoFKL9ufpxfHD3LDjk=
+
+Name: BUNDLE-METADATA/com.android.tools.build.libraries/dependencies.p
+ b
+SHA-256-Digest: Gy1KrBXX13CzgzTdOzCCuwigL8AT8LCufjJyAep2fOk=
+
+Name: base/assets/bin/Data/Managed/etc/mono/4.0/settings.map
+SHA-256-Digest: zh2xrYqVEgcxZOPszcGT9+2gNuGpczyuxGNd4hsoZcg=
+
+Name: base/lib/arm64-v8a/libunity.so
+SHA-256-Digest: vaFJX5Fxqo3t6CiXuNpQOb1UakD/Y9eXMxOLDZax5Gk=
+
+Name: base/assets/bin/Data/Managed/etc/mono/4.5/Browsers/Compat.browse
+ r
+SHA-256-Digest: ihCCBXrFaB3NTpwiftf7jrQqwWGJY7XeO2Vzndd+J0E=
+
+Name: base/root/META-INF/androidx.coordinatorlayout_coordinatorlayout.
+ version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: BundleConfig.pb
+SHA-256-Digest: kaKaE21DOmQT4tE6lkoH26uVeS5kE+O6zkT55xCsofM=
+
+Name: base/root/META-INF/androidx.viewpager_viewpager.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/res/mipmap-xxhdpi-v4/app_icon.png
+SHA-256-Digest: 8I30j1l0cVXppZ5PRnXwluz+V0cupwFrewmp3FHVOpM=
+
+Name: base/assets/bin/Data/Managed/etc/mono/2.0/Browsers/Compat.browse
+ r
+SHA-256-Digest: ihCCBXrFaB3NTpwiftf7jrQqwWGJY7XeO2Vzndd+J0E=
+
+Name: base/assets/bin/Data/Managed/etc/mono/2.0/web.config
+SHA-256-Digest: PBp2pYSQdLQ30pdlaiCKO+9thLmCFTVCuceXBGxgHfw=
+
+Name: base/res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: VZv3g9dlwCM46XlSvcnGaJx/+ZCQuMmBM2kRjaiwgPA=
+
+Name: base/assets/bin/Data/data.unity3d
+SHA-256-Digest: TiYMwqVR7HTOGn6SCTOccfE88+B7bsKHco16WdXcq2U=
+
+Name: base/root/META-INF/androidx.cursoradapter_cursoradapter.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/root/play-services-gass.properties
+SHA-256-Digest: L+xKm0ISFHQeZJ4BfM49we4+sDE9vg77Dc3eEVXtDBo=
+
+Name: base/lib/armeabi-v7a/libmain.so
+SHA-256-Digest: 1gQPX/KdzcBCfYo2sYECL4iC2SEkpnrqHzwf1JwwsdI=
+
+Name: base/assets/bin/Data/Managed/etc/mono/mconfig/config.xml
+SHA-256-Digest: DFbjTGkSRRD6jBnntMLKbBxP9GCuGfeY3QygNYCeOW0=
+
+Name: base/assets/bin/Data/Managed/etc/mono/2.0/DefaultWsdlHelpGenerat
+ or.aspx
+SHA-256-Digest: dRhhBAtp6mOjgnUHt8janH9UncGBwcivS3ynjMl9cQo=
+
+Name: base/assets/bin/Data/sharedassets0.resource
+SHA-256-Digest: rB15/kWo9lhb4Mu4zzYAQoVYQDm7vp4z1XN6nJLxrjc=
+
+Name: base/root/META-INF/androidx.arch.core_core-runtime.version
+SHA-256-Digest: wo/MpTY3vIjhJK8XJd8Ty5jGne3v1i+zzb4c22t2BiQ=
+
+Name: base/res/drawable/notification_bg_low.xml
+SHA-256-Digest: 3DC9BXd+Dl+XWUJi4vxOdZlF1wUcvfYaI3Qgc8oRR3o=
+
+Name: base/root/META-INF/androidx.slidingpanelayout_slidingpanelayout.
+ version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/root/play-services-tasks.properties
+SHA-256-Digest: 8nXWlZ7V/3X4enlPVCaa+0+7I82TRmzdqNTOIZU5OCk=
+
+Name: base/res/layout-v21/notification_template_icon_group.xml
+SHA-256-Digest: 7ZLlWz2WVglY3DdX9RO0bAVXxFSraRmBC8g+kYXD0Bg=
+
+Name: base/lib/arm64-v8a/libmain.so
+SHA-256-Digest: F0U3T4DK/ziQ4nMW9LgLzKTqVQRXzF/pQKYsX4LLGNY=
+
+Name: base/assets/bin/Data/Managed/etc/mono/4.5/DefaultWsdlHelpGenerat
+ or.aspx
+SHA-256-Digest: dRhhBAtp6mOjgnUHt8janH9UncGBwcivS3ynjMl9cQo=
+
+Name: base/res/drawable/notification_bg.xml
+SHA-256-Digest: oSzcSmeneS/DNMr5pve4TMtnxGvvjzEHnTz9YRC2F1o=
+
+Name: base/res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: DGMox7JCBXCn7DizvrO6yaKdiVrBq3I5MVq6cmZBhZM=
+
+Name: base/lib/arm64-v8a/libil2cpp.so
+SHA-256-Digest: 6wOknymGz1us8Qp/uhFo4EiCCm9Huwq+rqRTAgrzJ70=
+
+Name: base/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: PgmvohxFNywDVZjAF8j7QFptZ45suE3IV1gcs7QOSC0=
+
+Name: base/assets/bin/Data/Managed/etc/mono/4.0/DefaultWsdlHelpGenerat
+ or.aspx
+SHA-256-Digest: dRhhBAtp6mOjgnUHt8janH9UncGBwcivS3ynjMl9cQo=
+
+Name: base/root/play-services-measurement-base.properties
+SHA-256-Digest: w1k+WkKoBFpqKVlGimvWhrRXHNxjf6jeTf/wIdGwBxM=
+
+Name: base/root/META-INF/androidx.asynclayoutinflater_asynclayoutinfla
+ ter.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/res/mipmap-ldpi-v4/app_icon.png
+SHA-256-Digest: JgTXO15LPJAaa2+NY9WdNh891Kvi9RbEN2QiSKFxXf0=
+
+Name: base/assets/bin/Data/Managed/etc/mono/registry/last-btime
+SHA-256-Digest: 7jqmS7lKUIRdUCTNS9ICAqRWeu1c1TKMDZfpkgd1/Cg=
+
+Name: base/resources.pb
+SHA-256-Digest: ViJdcPyZCQeA+vYFf1yw+wMIfDgrO6iTqsWYL2oV46k=
+
+Name: base/root/META-INF/androidx.fragment_fragment.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: L3+9oLpuU+mkfi/A4k4yxEfGE6WAjC1ihdxlHoOgetc=
+
+Name: base/res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: qGdqF5OsgxD/sSmGIy32bfCS0pwkKu7cK3NVbAENONw=
+
+Name: base/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: 0nr0NRAcpMvsDIQL0waHkYzTnrg6qxSHQghVYjpFmYs=
+
+Name: base/res/layout/notification_action_tombstone.xml
+SHA-256-Digest: DS8qVEg3aqfNjfddt9woL9i/ZSW1JnS64Ge+Kk06Ts4=
+
+Name: base/res/mipmap-hdpi-v4/app_icon.png
+SHA-256-Digest: U93TrMSKXcn+g2Y7o3OWvRcswoC4bUDGNNFKvOlPH4o=
+
+Name: base/assets/bin/Data/Managed/Metadata/global-metadata.dat
+SHA-256-Digest: WRN/HrC0aOcAWWJ41mOGLc20Ofq54pn7c0Dz6iJncJs=
+
+Name: base/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: mcFNaFW4viltWAF9N1G43IScR7bR2Aq2FP+QdQgORhs=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-livedata-core.ve
+ rsion
+SHA-256-Digest: wo/MpTY3vIjhJK8XJd8Ty5jGne3v1i+zzb4c22t2BiQ=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-viewmodel.versio
+ n
+SHA-256-Digest: wo/MpTY3vIjhJK8XJd8Ty5jGne3v1i+zzb4c22t2BiQ=
+
+Name: base/res/layout-v21/notification_action_tombstone.xml
+SHA-256-Digest: tf3I0ObEWob7IT6k42rzRJkP0Ck043Ex7Mq3fctFJzM=
+
+Name: base/assets/bin/Data/Managed/etc/mono/2.0/settings.map
+SHA-256-Digest: ScYWD51Ur0Jwo7Tpl/xKgwH3m54gcBGPpG3by7xE+aI=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-livedata.version
+SHA-256-Digest: wo/MpTY3vIjhJK8XJd8Ty5jGne3v1i+zzb4c22t2BiQ=
+
+Name: base/assets/bin/Data/Managed/etc/mono/2.0/machine.config
+SHA-256-Digest: 7cW89oXZMKYHvAl5JyYKP5rH9S3YCdtoFYKYv9k0t84=
+
+Name: base/root/play-services-basement.properties
+SHA-256-Digest: Rk0ClCVCPcKQ4I2V5Y9lS/YBAvnadpqp+J2sDySC1I8=
+
+Name: base/res/mipmap-ldpi-v4/app_icon_round.png
+SHA-256-Digest: JgTXO15LPJAaa2+NY9WdNh891Kvi9RbEN2QiSKFxXf0=
+
+Name: base/root/META-INF/androidx.drawerlayout_drawerlayout.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/lib/armeabi-v7a/libil2cpp.so
+SHA-256-Digest: RTJmwTlwupeaZzTFq57zdy9yb2fEzTpEjsLn3LUX82s=
+
+Name: base/assets/bin/Data/Managed/etc/mono/config
+SHA-256-Digest: YAmc+RuxpXF/wfLSPPNqYdO/tw2Uifu29LrpjFYL89U=
+
+Name: base/res/layout/notification_template_part_chronometer.xml
+SHA-256-Digest: 0MuCEStCXhVzsP0OoFg4xM6YwCctLJIYAmNPSV99Bss=
+
+Name: base/assets/bin/Data/Managed/etc/mono/4.0/machine.config
+SHA-256-Digest: aRnVr1Bqrg2T6RvYNBioGJWlVUufVM+UqtINAlpNtmQ=
+
+Name: base/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: IDQyIvn3ndVlw6IkhJTUUucIIKwcQ3Fzw4ut1F+WKv0=
+
+Name: base/res/drawable/notification_tile_bg.xml
+SHA-256-Digest: 9S5IhBRDzhlsEqDgfH1kk7I6Ixm/1/eDoNk79qC6WH8=
+
+Name: base/res/mipmap-xxxhdpi-v4/app_icon.png
+SHA-256-Digest: kHqJO1Rz7FfvJnO89g2vEKh164XhtiWXM3wJZ3YwWJE=
+
+Name: base/root/META-INF/androidx.interpolator_interpolator.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: IfC1UoC+ELGHzv+O3vSlpwR2g+bp/PR95BCqODn0EJQ=
+
+Name: base/res/mipmap-mdpi-v4/app_icon.png
+SHA-256-Digest: SN4401RJQ50S90+AL1QxqFdJTidxyfBCYU/HcQkB6Gc=
+
+Name: base/root/play-services-ads-lite.properties
+SHA-256-Digest: ny8u6gbLBFJiTAy1kW8yQfI0DGlMLE1OTZDqAEq8ntg=
+
+Name: base/assets/bin/Data/Managed/etc/mono/4.0/web.config
+SHA-256-Digest: 8aZBbu7dnQQDh/2F3PfW4HS2ZExoKdCL4iD/n8Mu+zE=
+
+Name: base/manifest/AndroidManifest.xml
+SHA-256-Digest: ScEMd8VSxxJrEBri96728Wi56A6MN8FcS7LVB5xUoGU=
+
+Name: base/assets/bin/Data/unity default resources
+SHA-256-Digest: k+BEKSPS1fo1Hp0FO2N7E3AztEX0YNo3na2+V5GlU9Y=
+
+Name: base/res/layout-v21/notification_template_custom_big.xml
+SHA-256-Digest: tKGYZAKHOBrtG/taK7HMVv9kg+FnTfsEXrHQGGq/bTo=
+
+Name: base/root/play-services-ads-base.properties
+SHA-256-Digest: Hy8bfNkn7XwTARVJ1g5o9xT3Nm6To3vB8DviIPBPYjs=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA-256-Digest: wo/MpTY3vIjhJK8XJd8Ty5jGne3v1i+zzb4c22t2BiQ=
+
+Name: base/native.pb
+SHA-256-Digest: EzknS1uwRkjIqjyqYwfDPxxAuPy2erVPmFsP2e9iobs=
+
+Name: base/root/META-INF/androidx.loader_loader.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/root/play-services-measurement-sdk-api.properties
+SHA-256-Digest: D9H/2LpIV6oKuiENnill46cvPqHgbURHWFrT2mCSdNU=
+
+Name: base/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: Qq7gsDiD6U315UM0ijl9EwLBuCIYlYcag7gYmfWpZHs=
+
+Name: base/res/layout/notification_template_icon_group.xml
+SHA-256-Digest: gFQ4gz5tVL57oxJNhp9xMRDVqCUGUuCq/b6usd6BgeU=
+
+Name: base/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: DXc+YsdWQiMTJihGx4flj2fg7ofkXhrplCAC6BbEy54=
+
+Name: base/root/META-INF/androidx.localbroadcastmanager_localbroadcast
+ manager.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/assets/bin/Data/boot.config
+SHA-256-Digest: YVMx6HTsrSqOKaMP4TXX3jyPw7QBA5ac0RwrfLe5E08=
+
+Name: base/root/META-INF/androidx.swiperefreshlayout_swiperefreshlayou
+ t.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/root/META-INF/androidx.customview_customview.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/res/drawable-v21/notification_action_background.xml
+SHA-256-Digest: d8Y0Zm4Zk7LUljiK/1krbWdW98TWMbM59OuXYe/ma8I=
+
+Name: base/root/META-INF/androidx.print_print.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/res/mipmap-xxhdpi-v4/app_icon_round.png
+SHA-256-Digest: 8I30j1l0cVXppZ5PRnXwluz+V0cupwFrewmp3FHVOpM=
+
+Name: base/res/mipmap-mdpi-v4/app_icon_round.png
+SHA-256-Digest: SN4401RJQ50S90+AL1QxqFdJTidxyfBCYU/HcQkB6Gc=
+
+Name: base/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: hDDsAD4APz8roveNSP0VDiVAdmflMOguh6fUhBwP1nY=
+
+Name: base/res/layout/browser_actions_context_menu_row.xml
+SHA-256-Digest: M6BYP2r8mX1bM8JsWWnJKWCOwQ+77Me6PsnhbVjKlEA=
+
+Name: base/res/mipmap-xxxhdpi-v4/app_icon_round.png
+SHA-256-Digest: kHqJO1Rz7FfvJnO89g2vEKh164XhtiWXM3wJZ3YwWJE=
+
+Name: base/assets/bin/Data/Managed/Resources/mscorlib.dll-resources.da
+ t
+SHA-256-Digest: xbqhdqW3LNVFJmNA5CEC05Ol5D04yVeWvIKJGLuVJ38=
+
+Name: base/root/play-services-ads.properties
+SHA-256-Digest: IdyZtKauah6vEQSZ/iSF9XhWm9454i9xN9iqLO9/avQ=
+
+Name: base/dex/classes.dex
+SHA-256-Digest: s23V1J3AeaPWjni8x7murNhO3MznhtBG26HA5EdzasI=
+
+Name: base/res/layout-v16/notification_template_custom_big.xml
+SHA-256-Digest: kSEWC670+pX9g+KyJUmOoQS2dBE00QVp//yRob7xUnM=
+
+Name: base/lib/armeabi-v7a/libunity.so
+SHA-256-Digest: hI/cZhaFjbTVjWh6kWavzIyADWsSV7f3mGvXt90dnH4=
+
+Name: base/assets/bin/Data/Managed/etc/mono/browscap.ini
+SHA-256-Digest: Td1Q8x+5aPML7e/CU6Rtw/KJAZLQXNqp4KZKBW7ugH4=
+
+Name: base/root/META-INF/androidx.browser_browser.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/res/mipmap-xhdpi-v4/app_icon_round.png
+SHA-256-Digest: +Jq5KROf0BKn5IQtEGwPxxUOimoFKL9ufpxfHD3LDjk=
+
+Name: base/assets/bin/Data/Managed/etc/mono/4.5/settings.map
+SHA-256-Digest: zh2xrYqVEgcxZOPszcGT9+2gNuGpczyuxGNd4hsoZcg=
+
+Name: base/root/META-INF/androidx.legacy_legacy-support-core-ui.versio
+ n
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/assets/bin/Data/Managed/etc/mono/4.5/web.config
+SHA-256-Digest: FaLHqSQr9U08yz4H+m2PhLqLMD2IdyQ3h6EQMAmUG9s=
+
+Name: base/root/META-INF/androidx.legacy_legacy-support-core-utils.ver
+ sion
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: tE7to016Upwv5VcZ6wmPopcHyqkdGN4Gp6d11ua8+XM=
+
+Name: base/res/layout/notification_action.xml
+SHA-256-Digest: HfPn7ZpCilUVXibtF8fxDEo2bZwVTkUg5p+zm8HjJk0=
+
+Name: base/root/META-INF/androidx.core_core.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/root/play-services-ads-identifier.properties
+SHA-256-Digest: PxPGGRZj8aA2AhuTYIha3weam8hipuHktxOfttp48rM=
+
+Name: base/assets/bin/Data/Managed/etc/mono/4.0/Browsers/Compat.browse
+ r
+SHA-256-Digest: ihCCBXrFaB3NTpwiftf7jrQqwWGJY7XeO2Vzndd+J0E=
+
+Name: base/res/layout/notification_template_part_time.xml
+SHA-256-Digest: /eD1mT/GOmie6linnTkef8a5vazBNLvTSU10bo4Pr5I=
+
+Name: base/res/mipmap-hdpi-v4/app_icon_round.png
+SHA-256-Digest: U93TrMSKXcn+g2Y7o3OWvRcswoC4bUDGNNFKvOlPH4o=
+
+Name: base/root/META-INF/androidx.documentfile_documentfile.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: GLMo2AF+Z31arT29ZrrjVrXKyXjG8GcJOOpkjlHQ62Y=
+
+Name: base/res/layout-v21/notification_action.xml
+SHA-256-Digest: r22/XgU8kT3NNSC/i8xFnsTlFz2RmJJWNzZ/K3i86IQ=
+
+Name: base/assets.pb
+SHA-256-Digest: UWdTNxEPfSa7x6mOISvtYePNjFYVWieN/q+nNU8PAtk=
+
+Name: base/res/drawable/notification_icon_background.xml
+SHA-256-Digest: J8CbfI4PKn5nAxrwVuFH14Lmc/FdirZe8DVT2R8k62I=
+
+Name: base/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: 4Xdh7SgO3ZPXFBvVBLcPnp4VqGUiiNnmMzv0zpZO+EQ=
+

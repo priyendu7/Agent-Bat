@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1961886149816456645
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1961886149816456699}
+  - component: {fileID: 1961886149816456644}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1961886149816456699
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1961886149816456645}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.2168787, y: -0.64623773, z: -15.852666}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1961886149816456644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1961886149816456645}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8b92117ff6de4848a34c8e0e73f88c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: EndGame
+    clip: {fileID: 8300000, guid: 0eeabc7761da84ae9bb428b2bca62dfc, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 1
+  - name: Game
+    clip: {fileID: 8300000, guid: 3343d477968364880882ff6f0bf74f0c, type: 3}
+    volume: 0.6
+    pitch: 1
+    source: {fileID: 0}
+    loop: 1
+  - name: StartGame
+    clip: {fileID: 8300000, guid: d9a872a241b4145d09b81672e3926502, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 1
+  - name: Damage
+    clip: {fileID: 8300000, guid: a3f3fb4d68499457f9fc49a9369627c9, type: 3}
+    volume: 1
+    pitch: 0.39
+    source: {fileID: 0}
+    loop: 1
+  - name: CoinCollect
+    clip: {fileID: 8300000, guid: 130c51a65db0d45b1a5dde93673e44c6, type: 3}
+    volume: 1
+    pitch: 3
+    source: {fileID: 0}
+    loop: 0
+  - name: Revive
+    clip: {fileID: 8300000, guid: f1ea9b098802d43a9a97c35bc3bd3223, type: 3}
+    volume: 1
+    pitch: 2
+    source: {fileID: 0}
+    loop: 0
